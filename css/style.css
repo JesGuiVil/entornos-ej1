@@ -1,6 +1,9 @@
 body{
     background-color: aqua;
 }
-p{
-    text-align: center;
+.p1{
+    text-align: left;
+}
+.p2{
+    text-align: right;
 }
