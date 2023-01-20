@@ -1,11 +1,12 @@
 body{
-    background-color:brown;
+    background-color:aqua;
 }
+h2 {color: white;}
 .p1{
-    color:aqua;
+    color:brown;
     text-align: right;
 }
 .p2{
-    color: aqua;
+    color: brown;
     text-align: left;
 }
