@@ -2,8 +2,10 @@ body{
     background-color:brown;
 }
 .p1{
+    color:aqua;
     text-align: right;
 }
 .p2{
+    color: aqua;
     text-align: left;
 }
